@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 Tailwind css is used for styling.
 
 - npm install -D tailwindcss postcss autoprefixer
-- npx tailwind init -p
+- npx tailwindcss init -p
 
 
 If installation errors are encountered in the project, try running the following in the terminal.
